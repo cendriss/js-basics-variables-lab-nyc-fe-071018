@@ -1,4 +1,4 @@
 // Code your solution in this file!
 const companyName = 'Scuber'
 
-let most
+let mostProfitableNeighborhood = 'Chelsea'
